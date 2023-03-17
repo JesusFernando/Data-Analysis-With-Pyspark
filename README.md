@@ -1,2 +1,2 @@
 # Data-Analysis-With-Pyspark
-Repositorio que almacena todos mis proyectos de analisis de datos hechos en Colab con el Framework Pyspark y datasets de Kaggle
+Repositorio que almacena todos mis proyectos de análisis de datos desarrollados en Google Colab con el Framework Pyspark y datasets de Kaggle
